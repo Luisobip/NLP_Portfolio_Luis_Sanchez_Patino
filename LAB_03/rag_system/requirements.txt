@@ -1,0 +1,23 @@
+# LLM & Embeddings
+requests>=2.31.0
+langchain>=0.1.0
+sentence-transformers>=2.2.0
+
+# Document Processing
+pypdf>=4.0.0
+PyPDF2>=3.0.0
+python-docx>=0.8.11
+markdown>=3.5.0
+
+# Vector Operations & NLP
+numpy>=1.24.0
+scikit-learn>=1.3.0
+nltk>=3.8.0
+
+# UI - use latest stable version
+gradio>=4.40.0
+gradio-client>=0.17.0
+
+# Utilities
+python-dotenv>=1.0.0
+pydantic>=2.0.0
