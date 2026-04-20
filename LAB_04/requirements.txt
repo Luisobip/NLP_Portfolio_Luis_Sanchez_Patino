@@ -1,0 +1,25 @@
+# LAB_04: Simplified Speech Processing
+
+# Core
+openai-whisper>=20240314
+python-dotenv>=1.0.0
+
+# Optional: Local TTS
+# Uncomment to use Piper
+# piper-tts>=1.2.0
+
+# Optional: External APIs
+# Uncomment for OpenAI API
+# openai>=1.0.0
+
+# Uncomment for Google Cloud APIs
+# google-cloud-speech>=2.0.0
+# google-cloud-texttospeech>=2.0.0
+
+# Optional: Advanced Tasks
+# Uncomment for sentiment, entities, etc.
+librosa>=0.10.0
+transformers>=4.30.0
+torch>=2.0.0
+scikit-learn>=1.3.0
+
